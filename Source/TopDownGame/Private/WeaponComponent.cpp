@@ -3,3 +3,6 @@
 
 #include "WeaponComponent.h"
 
+void UWeaponComponent::Attack()
+{
+}

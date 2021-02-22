@@ -25,6 +25,8 @@ protected:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite)
 	class UStaticMeshComponent * WeaponMesh;
 
+	virtual void Attack(); 
+
 public:
 
 	FORCEINLINE float GetDamagePerHit() const { return DamagePerHit; }

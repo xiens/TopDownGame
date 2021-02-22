@@ -5,31 +5,108 @@
     <projectFile>Intermediate/ProjectFiles/UE4.vcxproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="057dea23-bf77-4aa7-bc12-2106fd2a7797" name="Default Changelist" comment="" />
+    <list default="true" id="057dea23-bf77-4aa7-bc12-2106fd2a7797" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/M_CursorRed.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/Obstacle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/ObstacleArea.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Idle.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Running.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Walking.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/paladin_j_nordstrom.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/SM_Bubblewand.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/M_Blade_Bubblewand.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/M_Blade_DeadlyAxe.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/M_Blunt_CrudeHammer.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/M_Dual_Blade_WrappedDeath.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_Bubblewand.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_Bubblewand_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_Bubblewand_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_Bubblewand_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_DeadlyAxe.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_DeadlyAxe_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_DeadlyAxe_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blade_DeadlyAxe_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blunt_CrudeHammer.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blunt_CrudeHammer_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blunt_CrudeHammer_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Blunt_CrudeHammer_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Dual_Blade_WrappedDeath.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Dual_Blade_WrappedDeath_Anim.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Dual_Blade_WrappedDeath_PhysicsAsset.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/WeaponModels/Weapons/SK_Dual_Blade_WrappedDeath_Skeleton.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TopDownGame/Private/MeleeWeapon.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TopDownGame/Private/Projectile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TopDownGame/Private/RangedWeapon.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TopDownGame/Public/MeleeWeapon.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TopDownGame/Public/Projectile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TopDownGame/Public/RangedWeapon.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TopDownGame/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TopDownGame/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TopDownGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TopDownGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Anim/BP_AnimMelee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Anim/BP_AnimMelee.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/IsoPlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/IsoPlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/MeleeCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/MeleeCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/RangedCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/RangedCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_01.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_01.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Dwarf_Walk.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Idle__1_.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Standing_Melee_Attack_Downward.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Animations/Standing_Melee_Attack_Downward.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_MAT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_MAT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_diffuse.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_diffuse.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_normal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_specular.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Melee/Paladin_specular.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/paladin_prop_j_nordstrom.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/paladin_prop_j_nordstrom_Anim_Take_001.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/paladin_prop_j_nordstrom_Anim_mixamo_com.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/paladin_prop_j_nordstrom_PhysicsAsset.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Melee/paladin_prop_j_nordstrom_Skeleton.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Ranged/medea_m_arrebola.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Ranged/medea_m_arrebola.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixamoModels/Ranged/medea_m_arrebola_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixamoModels/Ranged/medea_m_arrebola_Skeleton.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TopDownGame/Private/TopDownCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TopDownGame/Private/TopDownCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TopDownGame/Private/WeaponComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TopDownGame/Private/WeaponComponent.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TopDownGame/Public/WeaponComponent.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TopDownGame/Public/WeaponComponent.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://D:/Unreal/UE_4.26/Engine/Source/Runtime/Engine/Public/TimerManager.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unreal/UE_4.26/Engine/Source/Runtime/Engine/Public/TimerManager.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unreal/UE_4.26/Engine/Source/Runtime/Core/Public/Templates/PointerIsConvertibleFromTo.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Unreal/UE_4.26/Engine/Source/Runtime/CoreUObject/Public/Templates/Casts.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Source/TopDownGame/Public/HealthComponent.h" />
       <option value="$PROJECT_DIR$/Source/TopDownGame/Private/HealthComponent.cpp" />
-      <option value="$PROJECT_DIR$/Source/TopDownGame/Public/WeaponComponent.h" />
-      <option value="$PROJECT_DIR$/Source/TopDownGame/Private/TopDownCharacter.cpp" />
       <option value="$PROJECT_DIR$/Source/TopDownGame/Public/TopDownCharacter.h" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Public/WeaponComponent.h" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Public/RangedWeapon.h" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Private/RangedWeapon.cpp" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Public/MeleeWeapon.h" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Private/MeleeWeapon.cpp" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Private/Projectile.cpp" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Public/Projectile.h" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Private/WeaponComponent.cpp" />
+      <option value="$PROJECT_DIR$/Source/TopDownGame/Private/TopDownCharacter.cpp" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1oYbS57f6F8rtgLJnxt7f9oYTDM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994525" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -362,6 +439,9 @@
       <workItem from="1613573962800" duration="2896000" />
       <workItem from="1613638409230" duration="620000" />
       <workItem from="1613670220914" duration="3648000" />
+      <workItem from="1613722662781" duration="805000" />
+      <workItem from="1613841032263" duration="7717000" />
+      <workItem from="1613992960308" duration="2157000" />
     </task>
     <servers />
   </component>
@@ -370,7 +450,20 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
